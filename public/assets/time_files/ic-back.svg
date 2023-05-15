@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="ic_back" transform="translate(-947 -376)">
+        <path id="Rectangle_3532" d="M0 0h24v24H0z" class="cls-1" data-name="Rectangle 3532" transform="translate(947 376)"/>
+        <g id="noun_back_2382020" transform="translate(948.33 372.66)">
+            <g id="_12" data-name="12" transform="translate(1.67 7.34)">
+                <path id="Path_2361" d="M20.63 14.484H4.962l5.176-5.913L8.739 7.34 1.67 15.417l7.069 8.077 1.4-1.231-5.177-5.914H20.63z" class="cls-2" data-name="Path 2361" transform="translate(-1.67 -7.34)"/>
+            </g>
+        </g>
+    </g>
+</svg>
